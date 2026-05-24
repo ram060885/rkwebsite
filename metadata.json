@@ -1,0 +1,8 @@
+{
+  "name": "Remix: RKWebsite",
+  "description": "Ram Halder's Web Portfolio featuring Corporate Finance and Automation Systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
